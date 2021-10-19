@@ -1,0 +1,1 @@
+# test-xml-model-raises-warnings
